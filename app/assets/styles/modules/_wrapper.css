@@ -20,6 +20,10 @@
         }
     }
 
+    &--no-hidden {
+        overflow: visible;
+    }
+
     &--no-padding-until-large {
         padding-left: 0;
         padding-right: 0;
